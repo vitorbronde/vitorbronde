@@ -1,11 +1,3 @@
-## Hi there i am Vitor Bronde 👋
-
-#### 🔭 I’m an Data Analyst currently working on GetNinjas
-
-
-- 🌱 I have a bachelor degree on Economics and i’m currently working on my Statistical and Machine Learning Skills 
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 </a>  
