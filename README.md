@@ -8,7 +8,5 @@
 </a>
 <a href="https://jupyter.org//" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
 </a>
-<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  alt="GitHub" width="40" height="40"/>
-</a> </p>
 
    
